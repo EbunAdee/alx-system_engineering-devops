@@ -1,0 +1,26 @@
+total 60
+drwxr-xr-x 2 root root 4096 Mar 13 11:15 .
+drwxr-xr-x 6 root root  104 Mar 13 05:19 ..
+-rwxr--r-- 1 root root   32 Mar 13 06:11 0-hello_world
+-rw-r--r-- 1 root root    0 Mar 13 05:25 0-hello_world~
+-rw-r--r-- 1 root root   27 Mar 13 06:17 #1-confused_smiley#
+lrwxrwxrwx 1 root root   21 Mar 13 06:12 .#1-confused_smiley -> root@69d0896216d0.118
+-rwxr--r-- 1 root root   28 Mar 13 06:20 1-confused_smiley
+-rw-r--r-- 1 root root    0 Mar 13 06:12 1-confused_smiley~
+-rwxr--r-- 1 root root   28 Mar 13 06:30 2-hellofile
+-rwxr--r-- 1 root root   27 Mar 13 06:26 2-hellofile~
+-rwxr--r-- 1 root root   39 Mar 13 06:34 3-twofiles
+-rw-r--r-- 1 root root    0 Mar 13 06:32 3-twofiles~
+-rwxr--r-- 1 root root   29 Mar 13 06:46 4-lastlines
+-rw-r--r-- 1 root root   34 Mar 13 06:42 4-lastlines~
+-rwxr--r-- 1 root root   29 Mar 13 06:49 5-firstlines
+-rw-r--r-- 1 root root    0 Mar 13 06:48 5-firstlines~
+-rwxr--r-- 1 root root   36 Mar 13 07:02 6-third_line
+-rw-r--r-- 1 root root    0 Mar 13 06:51 6-third_line~
+-rwxr--r-- 1 root root   90 Mar 13 11:03 7-file
+-rw-r--r-- 1 root root    0 Mar 13 07:05 7-file~
+-rwxr--r-- 1 root root   36 Mar 13 11:15 8-cwd_state
+-rw-r--r-- 1 root root    0 Mar 13 11:10 8-cwd_state~
+-rw-r--r-- 1 root root   12 Mar 13 11:03 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Mar 13 11:15 ls_cwd_content
+-rw-r--r-- 1 root root   18 Mar 13 05:21 README.md
